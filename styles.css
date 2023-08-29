@@ -13,7 +13,18 @@ body{
     font-family: 'Lato';
     color: #333;
 }
+.btn-pagar {
+    background-color: #acc470;
+    border-radius: 10px;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
 
+.btn-pagar:hover {
+    background-color: #8fa15e; /* Cambio de color al pasar el cursor */
+}
 .icon-cart{
     width: 40px;
     height: 40px;
@@ -63,19 +74,19 @@ header{
 
 
 
-.container-cart-products{
+.container-cart-products {
     position: absolute;
     top: 50px;
     right: 0;
-
     background-color: #fff;
     width: 400px;
     z-index: 1;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.20);
     border-radius: 10px;
-    
+    user-select: none; /* Evitar selección de texto */
+    -moz-user-select: none;
+    -webkit-user-select: none;
 }
-
 .cart-product{
     display: flex;
     align-items: center;

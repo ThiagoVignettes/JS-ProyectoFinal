@@ -1,0 +1,55 @@
+[
+    {
+        "titulo": "Gel desincrustante para puntos negros",
+        "precio": 2500,
+        "imagen": "Fotos Depilogoros/Gel desincrustante para puntos negros.jpeg"
+    },
+    {
+        "titulo": "Hialuronico y Retinol",
+        "precio": 4000,
+        "imagen": "Fotos Depilogoros/Hialuronico y retinol.jpeg"
+    },
+    {
+        "titulo": "Gel de limpieza extrasuave",
+        "precio": 3000,
+        "imagen": "Fotos Depilogoros/Gel de limpieza extrasuave con avena y tea tree.jpeg"
+    },
+    {
+        "titulo": "Leche de Limpieza Extrasuave",
+        "precio": 3000,
+        "imagen": "Fotos Depilogoros/Leche de limpieza extrasuave.jpeg"
+    },
+
+    {
+        "titulo": "Locion astringente seborreguladora",
+        "precio": 4500,
+        "imagen": "Fotos Depilogoros/Locion astringente seborreguladora.jpeg"
+    },
+    {
+        "titulo": "Locion tonica Reequilibrante",
+        "precio": 4500,
+        "imagen": "Fotos Depilogoros/Losion tonica Reequilibrante.jpeg"
+    },
+    
+    {
+        "titulo": "Microesferas con vitamina C en gel con acido hialuronico",
+        "precio": 4500,
+        "imagen": "Fotos Depilogoros/Microesferas con vitamina C en gel con acido hialuronico.jpeg"
+    },
+    {
+        "titulo": "Multidefensa Esencial Emulsion De BEAUTE",
+        "precio": 4500,
+        "imagen": "Fotos Depilogoros/Multidefensa Esencial Emulsion De BEAUTE.jpeg"
+    },
+    {
+        "titulo": "Multidefensa Esencial Incoloro De BEAUTE",
+        "precio": 4500,
+        "imagen":"Fotos Depilogoros/Multidefensa Esencial Incoloro De BEAUTE.jpeg"
+    },
+    {
+        "titulo": "New Body De Beaute",
+        "precio": 3000,
+        "imagen": "Fotos Depilogoros/New Body De Beaute.jpeg"
+    }
+    
+]
