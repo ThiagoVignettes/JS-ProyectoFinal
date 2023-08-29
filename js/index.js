@@ -141,13 +141,28 @@ document.addEventListener('DOMContentLoaded', () => {
     fetch('./productos.json')
       .then(response => response.json())
       .then(data => {
-        // Aquí puedes continuar con el manejo de los datos
+
       })
       .catch(error => {
         console.error('Error fetching productos:', error);
       });
-  });
 
+
+  
+      //AJAX USANDO JQUERY
+      $.ajax({
+        url: 'productos.json',
+        dataType: 'json',
+        success: function (data) {
+        },
+        error: function (error) {
+          console.error('Error fetching productos:', error);
+        }
+      });
+    });
+    
+
+  
 document.addEventListener('DOMContentLoaded', function () {
   const btnPagar = document.querySelector('.btn-pagar');
 
